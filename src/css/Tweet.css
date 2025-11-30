@@ -1,0 +1,11 @@
+.tweet-wrapper{
+    height: 80px;
+    border: 1px solid black;
+    width: 1000px;
+    padding: 1rem;
+}
+
+.arrange-buttons{
+    display: flex;
+    justify-content: space-between;
+}
